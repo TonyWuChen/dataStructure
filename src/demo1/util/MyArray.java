@@ -106,7 +106,8 @@ public class MyArray {
 		//没有找到对应的元素
 		return -1;
 	}
-	
+
+
 	//二分法查找
 	public int binarySearch(int target) {
 		//记录开始位置
